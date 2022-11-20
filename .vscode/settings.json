@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "trisrapide.h": "c",
+        "stdlib.h": "c"
+    }
+}
